@@ -5,12 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.amigoscode</groupId>
-  <artifactId>amigosservices</artifactId>
+  <artifactId>dmarktservices</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
 
-  <name>amigosservices</name>
+  <name>dmarktservices</name>
   <!-- FIXME change it to the project's website -->
 
 
